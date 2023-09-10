@@ -32,7 +32,7 @@ export function MyLinkButton({link, children}) {
 
 export function NameLesson() {
   return (
-    <div className='exersize' sx={{ bgcolor: `primary.dark`, fontSize: 20 }} >
+    <div className='exersize' sx={{ bgcolor: `primary.dark`, fontSize: 18 }} >
       LESSON:<br/> { name }
     </div>
   )

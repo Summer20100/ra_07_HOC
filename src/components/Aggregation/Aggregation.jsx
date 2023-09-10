@@ -120,7 +120,6 @@ const Aggregation = () => {
 
     const { list } = datalist
 
-    console.log(datalist)
 
     const nameMonth = {
         0: 'Jan',
